@@ -12,7 +12,6 @@
         <load module="mod_console"/>
 		<load module="mod_loopback"/>
 		<load module="mod_opus"/>
-		<load module="mod_spandsp"/>
 		<load module="mod_amr"/>
 		<load module="mod_amrwb"/>
 		<load module="mod_tone_stream"/>

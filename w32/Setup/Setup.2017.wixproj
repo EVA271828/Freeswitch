@@ -329,14 +329,6 @@
       <RefProjectOutputGroups>Binaries;Content;Satellites</RefProjectOutputGroups>
       <RefTargetDir>INSTALLFOLDER</RefTargetDir>
     </ProjectReference>
-    <ProjectReference Include="..\..\src\mod\applications\mod_spandsp\mod_spandsp.2017.vcxproj">
-      <Name>mod_spandsp</Name>
-      <Project>{1e21afe0-6fdb-41d2-942d-863607c24b91}</Project>
-      <Private>True</Private>
-      <DoNotHarvest>True</DoNotHarvest>
-      <RefProjectOutputGroups>Binaries;Content;Satellites</RefProjectOutputGroups>
-      <RefTargetDir>INSTALLFOLDER</RefTargetDir>
-    </ProjectReference>
     <ProjectReference Include="..\..\src\mod\applications\mod_spy\mod_spy.2017.vcxproj">
       <Name>mod_spy</Name>
       <Project>{a61d7cb4-75a5-4a55-8ca1-be5af615d921}</Project>

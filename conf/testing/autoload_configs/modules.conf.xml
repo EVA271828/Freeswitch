@@ -19,7 +19,6 @@
     <load module="mod_voicemail"/>
     <load module="mod_valet_parking"/>
     <load module="mod_dialplan_xml"/>
-    <load module="mod_spandsp"/>
     <load module="mod_g723_1"/>
     <load module="mod_g729"/>
     <load module="mod_amr"/>
